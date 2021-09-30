@@ -1,1 +1,2 @@
-# timothy-huynh-p1
+# Timothy Huynh 
+# Project 1 
